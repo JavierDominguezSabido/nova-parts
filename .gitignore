@@ -1,0 +1,25 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Entorno local de Codex/agentes
+.agents/
+.codex/
+.git-upload/
+
+# Archivos temporales y registros
+*.log
+*.tmp
+*.temp
+~$*
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
